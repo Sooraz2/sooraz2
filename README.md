@@ -19,5 +19,6 @@ I’m passionate about creating solutions with cutting-edge technologies and bui
 
 ## 📬 Get in Touch
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/suraj-kunwar-945724b3/)
+- Email : soorazmanoop@gmail.com
 
 
