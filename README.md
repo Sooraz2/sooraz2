@@ -17,6 +17,17 @@ I’m passionate about creating solutions with cutting-edge technologies and bui
 ![MySQL](https://img.shields.io/badge/-MySQL-black?style=flat-square&logo=mysql)
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![SQLite](https://img.shields.io/badge/-SQLite-black?style=flat-square&logo=sqlite)
+![Vue.js](https://img.shields.io/badge/-Vue.js-black?style=flat-square&logo=vue.js)
+![Redis](https://img.shields.io/badge/-Redis-black?style=flat-square&logo=redis)
+![ScriptCase](https://img.shields.io/badge/-ScriptCase-black?style=flat-square)
+![SSRS](https://img.shields.io/badge/-SSRS-black?style=flat-square&logo=sql-server)
+![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
+![Jenkins](https://img.shields.io/badge/-Jenkins-black?style=flat-square&logo=jenkins)
+![Firebase](https://img.shields.io/badge/-Firebase-black?style=flat-square&logo=firebase)
+![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark)
+![Asterisk](https://img.shields.io/badge/-Asterisk-black?style=flat-square&logo=asterisk)
 
 ## 📬 Get in Touch
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/suraj-kunwar-945724b3/)
