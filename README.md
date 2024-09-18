@@ -29,6 +29,11 @@ I’m passionate about creating solutions with cutting-edge technologies and bui
 ![Wireshark](https://img.shields.io/badge/-Wireshark-black?style=flat-square&logo=wireshark)
 ![Asterisk](https://img.shields.io/badge/-Asterisk-black?style=flat-square&logo=asterisk)
 
+## ✨ Contributions
+Check out my latest contributions and the projects I've been working on:
+![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?user=sooraz2&theme=radical)
+
+
 ## 📬 Get in Touch
 - LinkedIn: [My LinkedIn](https://www.linkedin.com/in/suraj-kunwar-945724b3/)
 - Email : soorazmanoop@gmail.com
