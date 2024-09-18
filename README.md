@@ -4,7 +4,7 @@
 
 I’m passionate about creating solutions with cutting-edge technologies and building projects that make a difference! Welcome to my GitHub—check out my repositories below.
 
-[![GitHub followers](https://img.shields.io/github/followers/your-username?label=Follow&style=social)](https://github.com/sooraz2)  
+[![GitHub followers](https://img.shields.io/github/followers/sooraz2?label=Follow&style=social)](https://github.com/sooraz2)  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/suraj-kunwar-945724b3/)
 
 ## 🔧 Technologies & Tools
