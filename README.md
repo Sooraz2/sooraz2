@@ -17,15 +17,6 @@ I’m passionate about creating solutions with cutting-edge technologies and bui
 ![Git](https://img.shields.io/badge/-Git-black?style=flat-square&logo=git)
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
-## 📊 GitHub Stats
-![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=sooraz2&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sooraz2&layout=compact&theme=radical)
-
-
-## ✨ Contributions
-Check out my latest contributions and the projects I've been working on:
-![GitHub Contributions](https://github-readme-streak-stats.herokuapp.com?user=sooraz2&theme=radical)
-
 ## 📬 Get in Touch
 - LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/suraj-kunwar-945724b3/)
 
