@@ -9,7 +9,7 @@ I’m passionate about creating solutions with cutting-edge technologies and bui
 
 ## 🔧 Technologies & Tools
 ![PHP](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=php)
-![Laravel](https://img.shields.io/badge/-PHP-black?style=flat-square&logo=laravel)
+![Laravel](https://img.shields.io/badge/-Laravel-black?style=flat-square&logo=laravel)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-black?style=flat-square&logo=typescript)
 ![React](https://img.shields.io/badge/-React-black?style=flat-square&logo=react)
