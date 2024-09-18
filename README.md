@@ -18,7 +18,7 @@ I’m passionate about creating solutions with cutting-edge technologies and bui
 ![AWS](https://img.shields.io/badge/-AWS-black?style=flat-square&logo=amazon-aws)
 
 ## 📬 Get in Touch
-- LinkedIn: [Your LinkedIn](https://www.linkedin.com/in/suraj-kunwar-945724b3/)
+- LinkedIn: [My LinkedIn](https://www.linkedin.com/in/suraj-kunwar-945724b3/)
 - Email : soorazmanoop@gmail.com
 
 
