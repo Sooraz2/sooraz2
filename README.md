@@ -1,6 +1,6 @@
 # Hi there! 👋 I'm Suraj 
 
-🚀 **Software Engineer | Full-Stack Developer | AI Enthusiast | Tech Enthusisast**
+🚀 **Software Engineer | Full-Stack Developer | Tech Enthusisast**
 
 I’m passionate about creating solutions with cutting-edge technologies and building projects that make a difference! Welcome to my GitHub—check out my repositories below.
 
